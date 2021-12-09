@@ -1,0 +1,17 @@
+name: iscr
+version: 0.1.0
+
+authors:
+  - Chris Pecunies <clp@clp.is>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+targets:
+  iscr:
+    main: src/iscr.cr
+
+crystal: 1.2.2
+
+license: MIT
